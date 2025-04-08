@@ -16,3 +16,10 @@ A beautiful, responsive photography portfolio website built with HTML, CSS, and 
     - *ScrollReveal* for animations
     - *Remix Icons* for beautiful icons
 - *Design:* Responsive layout with mobile-first approach
+## 🎨 Design Highlights
+- Clean, minimalist aesthetic
+- Elegant typography with Merriweather and Montserrat fonts
+- Smooth scrolling navigation
+- Animated gallery with hover effects
+- Instagram-style image scroller
+- Responsive layout for all device sizes
