@@ -34,3 +34,8 @@ The website includes a popup contact form that:
 - Can be closed with ESC key
 - Is fully responsive
 
+## 📱 Responsive Design
+The website adapts to:
+- Mobile (≤540px)
+- Tablet (≤768px)
+- Desktop (≥1024px)
