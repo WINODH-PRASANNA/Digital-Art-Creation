@@ -1,5 +1,6 @@
 # 📷 Digital Art Creation - Photography Portfolio Website
 A beautiful, responsive photography portfolio website built with HTML, CSS, and JavaScript. Showcase your photography work with elegant galleries, client testimonials, and contact forms.
+
 ## 🌟 Features
 - 🖼️ Responsive portfolio gallery with toggle view
 - 📱 Mobile-friendly navigation menu
@@ -9,6 +10,7 @@ A beautiful, responsive photography portfolio website built with HTML, CSS, and 
 - 📧 Contact form popup
 - 🌓 Light/dark logo variants
 - 🏷️ Service cards with elegant styling
+
 ## 🛠️ Technologies Used
 - *Frontend:* HTML5, CSS3, JavaScript
 - *Libraries:*
@@ -16,6 +18,7 @@ A beautiful, responsive photography portfolio website built with HTML, CSS, and 
     - *ScrollReveal* for animations
     - *Remix Icons* for beautiful icons
 - *Design:* Responsive layout with mobile-first approach
+
 ## 🎨 Design Highlights
 - Clean, minimalist aesthetic
 - Elegant typography with Merriweather and Montserrat fonts
@@ -23,3 +26,11 @@ A beautiful, responsive photography portfolio website built with HTML, CSS, and 
 - Animated gallery with hover effects
 - Instagram-style image scroller
 - Responsive layout for all device sizes
+  
+## 📬 Contact Form
+The website includes a popup contact form that:
+- Has smooth animations
+- Validates inputs
+- Can be closed with ESC key
+- Is fully responsive
+
