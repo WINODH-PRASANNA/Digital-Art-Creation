@@ -7,3 +7,5 @@ A beautiful, responsive photography portfolio website built with HTML, CSS, and 
 - 🎚️ Interactive image hover effects
 - 📜 Testimonial slider
 - 📧 Contact form popup
+- 🌓 Light/dark logo variants
+- 🏷️ Service cards with elegant styling
