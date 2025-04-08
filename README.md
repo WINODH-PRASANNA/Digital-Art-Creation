@@ -10,8 +10,9 @@ A beautiful, responsive photography portfolio website built with HTML, CSS, and 
 - 🌓 Light/dark logo variants
 - 🏷️ Service cards with elegant styling
 ## 🛠️ Technologies Used
-- Frontend: HTML5, CSS3, JavaScript
-- Libraries:
+- *Frontend:* HTML5, CSS3, JavaScript
+- *Libraries:*
     - *Swiper.js* for testimonials
     - *ScrollReveal* for animations
     - *Remix Icons* for beautiful icons
+- *Design:* Responsive layout with mobile-first approach
