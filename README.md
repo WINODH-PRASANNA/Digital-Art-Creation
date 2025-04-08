@@ -39,3 +39,8 @@ The website adapts to:
 - Mobile (≤540px)
 - Tablet (≤768px)
 - Desktop (≥1024px)
+
+## 🚀 Getting Started
+`
+git clone https://github.com/your-username/digital-art-creation.git
+`
