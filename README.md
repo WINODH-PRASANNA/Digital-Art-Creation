@@ -41,6 +41,7 @@ The website adapts to:
 - Desktop (≥1024px)
 
 ## 🚀 Getting Started
+Clone the repository
 `
 git clone https://github.com/your-username/digital-art-creation.git
 `
